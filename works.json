@@ -156,6 +156,30 @@
     "poster": "media/medicalguide.jpg"
   },
   {
+    "id": "craft",
+    "category": "promo",
+    "title": "브랜드 메이커 인터뷰",
+    "role": "편집 참여",
+    "description": "현장 작업 장면과 인터뷰, 굵은 타이포그래피로 만든 브랜드 스토리",
+    "duration": 36,
+    "originalDuration": 195.77,
+    "audio": false,
+    "video": "media/craft.mp4",
+    "poster": "media/craft.jpg"
+  },
+  {
+    "id": "convention",
+    "category": "promo",
+    "title": "컨벤션센터 홍보영상",
+    "role": "제작 참여",
+    "description": "드론 항공 컷과 인물 연출로 도시와 공간을 소개하는 기관 홍보영상",
+    "duration": 40,
+    "originalDuration": 197.53,
+    "audio": true,
+    "video": "media/convention.mp4",
+    "poster": "media/convention.jpg"
+  },
+  {
     "id": "plush",
     "category": "promo",
     "title": "제품 디테일 영상",
