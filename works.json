@@ -36,6 +36,42 @@
     "poster": "media/ad2.jpg"
   },
   {
+    "id": "drama",
+    "category": "shorts",
+    "title": "해외 드라마 짜깁기 쇼츠",
+    "role": "편집",
+    "description": "줄거리 핵심 장면을 골라 잇고, 상단 훅 타이틀과 한영 자막으로 정리",
+    "duration": 60.88,
+    "originalDuration": 60.88,
+    "audio": true,
+    "video": "media/drama.mp4",
+    "poster": "media/drama.jpg"
+  },
+  {
+    "id": "movie1",
+    "category": "shorts",
+    "title": "해외 영화 짜깁기 쇼츠 A",
+    "role": "편집",
+    "description": "긴장감이 이어지는 장면 선택과 자막 구성",
+    "duration": 71.67,
+    "originalDuration": 71.67,
+    "audio": true,
+    "video": "media/movie1.mp4",
+    "poster": "media/movie1.jpg"
+  },
+  {
+    "id": "movie2",
+    "category": "shorts",
+    "title": "해외 영화 짜깁기 쇼츠 B",
+    "role": "편집",
+    "description": "인물 관계가 한 번에 읽히는 컷 순서와 훅 타이틀",
+    "duration": 51.29,
+    "originalDuration": 51.29,
+    "audio": true,
+    "video": "media/movie2.mp4",
+    "poster": "media/movie2.jpg"
+  },
+  {
     "id": "cooking",
     "category": "shorts",
     "title": "요리 레시피 숏폼",
@@ -96,11 +132,23 @@
     "poster": "media/mistake.jpg"
   },
   {
+    "id": "variety2",
+    "category": "shorts",
+    "title": "예능 하이라이트 쇼츠",
+    "role": "편집",
+    "description": "감정선이 살아나는 장면 연결과 강조 자막, 댓글 카드",
+    "duration": 43.33,
+    "originalDuration": 43.33,
+    "audio": true,
+    "video": "media/variety2.mp4",
+    "poster": "media/variety2.jpg"
+  },
+  {
     "id": "animal",
     "category": "shorts",
-    "title": "일본 채널 동물 쇼츠",
+    "title": "해외 채널 동물 짜깁기 쇼츠",
     "role": "편집",
-    "description": "일본어 자막과 리듬감 있는 컷으로 구성한 해외 채널용 쇼츠",
+    "description": "해외 영상을 골라 일본어 자막과 리듬감 있는 컷으로 구성한 일본 채널용 쇼츠",
     "duration": 39.33,
     "originalDuration": 39.33,
     "audio": true,
