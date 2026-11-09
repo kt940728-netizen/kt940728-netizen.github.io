@@ -144,6 +144,18 @@
     "poster": "media/variety2.jpg"
   },
   {
+    "id": "wanko",
+    "category": "shorts",
+    "title": "해외 짜깁기 쇼츠 · 일본 채널",
+    "role": "편집",
+    "description": "해외 영상을 골라 일본어 타이틀로 짧게 완성한 감성형 쇼츠",
+    "duration": 6.13,
+    "originalDuration": 6.13,
+    "audio": true,
+    "video": "media/wanko.mp4",
+    "poster": "media/wanko.jpg"
+  },
+  {
     "id": "animal",
     "category": "shorts",
     "title": "해외 채널 동물 짜깁기 쇼츠",
