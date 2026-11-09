@@ -1,5 +1,17 @@
 [
   {
+    "id": "report",
+    "category": "shorts",
+    "title": "탐사보도형 정보 쇼츠",
+    "role": "편집 · 그래픽",
+    "description": "자료 화면, 문서 강조, 챕터 구성으로 만든 탐사보도 스타일",
+    "duration": 64,
+    "originalDuration": 64,
+    "audio": true,
+    "video": "media/report.mp4",
+    "poster": "media/report.jpg"
+  },
+  {
     "id": "ad1",
     "category": "shorts",
     "title": "제품 인스타 광고 릴스 A",
