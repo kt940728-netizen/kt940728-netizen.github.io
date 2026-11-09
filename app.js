@@ -36,8 +36,3 @@ new IntersectionObserver(([e])=>fl.classList.toggle('show',!e.isIntersecting)).o
 // 예전 링크(/shorts/ 등)로 들어오면 해당 분야로 이동
 const route=location.pathname.split('/').filter(Boolean)[0];
 if(['shorts','longform','promo'].includes(route)&&!location.hash)document.getElementById(route)?.scrollIntoView();
-
-// 편집몬은 연락처 기재 금지: 문의 버튼을 편집몬 프로필로 돌린다
-if(new URLSearchParams(location.search).get('source')==='editmon'){
- document.querySelectorAll('a.kakao').forEach(a=>{a.href='https://www.editmon.com/work/resume_detail.html?no=22163';a.removeAttribute('target');if(!a.classList.contains('sm')&&!a.classList.contains('float'))a.textContent='편집몬 프로필로 문의하기';});
-}

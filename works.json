@@ -1,5 +1,29 @@
 [
   {
+    "id": "ad1",
+    "category": "shorts",
+    "title": "제품 인스타 광고 릴스 A",
+    "role": "편집",
+    "description": "공감형 도입, 이모지 스토리텔링, 제품 컷과 성분 카드",
+    "duration": 25.8,
+    "originalDuration": 25.8,
+    "audio": true,
+    "video": "media/ad1.mp4",
+    "poster": "media/ad1.jpg"
+  },
+  {
+    "id": "ad2",
+    "category": "shorts",
+    "title": "제품 인스타 광고 릴스 B",
+    "role": "편집",
+    "description": "문제 제기에서 해결로 넘어가는 광고 구성과 후기 컷",
+    "duration": 23.57,
+    "originalDuration": 23.57,
+    "audio": true,
+    "video": "media/ad2.mp4",
+    "poster": "media/ad2.jpg"
+  },
+  {
     "id": "cooking",
     "category": "shorts",
     "title": "요리 레시피 숏폼",
@@ -10,6 +34,18 @@
     "audio": true,
     "video": "media/cooking.mp4",
     "poster": "media/cooking.jpg"
+  },
+  {
+    "id": "japan",
+    "category": "shorts",
+    "title": "일본어 현지화 레시피 숏폼",
+    "role": "편집",
+    "description": "같은 원본을 일본 채널용 자막과 구성으로 재편집",
+    "duration": 30.73,
+    "originalDuration": 30.73,
+    "audio": true,
+    "video": "media/japan.mp4",
+    "poster": "media/japan.jpg"
   },
   {
     "id": "news",
@@ -24,16 +60,40 @@
     "poster": "media/news.jpg"
   },
   {
-    "id": "japan",
+    "id": "villain",
     "category": "shorts",
-    "title": "일본어 현지화 레시피 숏폼",
+    "title": "예능 하이라이트 모음 쇼츠",
     "role": "편집",
-    "description": "같은 원본을 일본 채널용 자막과 구성으로 재편집",
-    "duration": 30.73,
-    "originalDuration": 30.73,
+    "description": "웃음 포인트만 골라 잇는 컷과 강조 자막, 댓글 카드",
+    "duration": 50.53,
+    "originalDuration": 50.53,
     "audio": true,
-    "video": "media/japan.mp4",
-    "poster": "media/japan.jpg"
+    "video": "media/villain.mp4",
+    "poster": "media/villain.jpg"
+  },
+  {
+    "id": "mistake",
+    "category": "shorts",
+    "title": "웹예능 상황극 쇼츠",
+    "role": "편집",
+    "description": "상황 전개가 빠르게 읽히는 컷 편집과 상단 타이틀",
+    "duration": 53.73,
+    "originalDuration": 53.73,
+    "audio": true,
+    "video": "media/mistake.mp4",
+    "poster": "media/mistake.jpg"
+  },
+  {
+    "id": "animal",
+    "category": "shorts",
+    "title": "일본 채널 동물 쇼츠",
+    "role": "편집",
+    "description": "일본어 자막과 리듬감 있는 컷으로 구성한 해외 채널용 쇼츠",
+    "duration": 39.33,
+    "originalDuration": 39.33,
+    "audio": true,
+    "video": "media/animal.mp4",
+    "poster": "media/animal.jpg"
   },
   {
     "id": "talk",
